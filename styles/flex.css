@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.item{
+  width: 200px;
+  height: 100px;
+  background-color: aquamarine;
+  border: 2px solid tomato;
+  padding: 10px;
+}
+
